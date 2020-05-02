@@ -1,1 +1,1 @@
-const myConst = 43;
+const myConst2 = 43;
